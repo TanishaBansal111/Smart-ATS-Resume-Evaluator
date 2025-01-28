@@ -61,5 +61,4 @@ Smart ATS is an AI-powered resume analysis tool that evaluates resumes against j
 
 ## 📸 Screenshot
 
-![Smart ATS UI](![image](https://github.com/user-attachments/assets/dd6b7d0a-ac66-43bb-a6b6-65325315d4dc)
-)
+![image](https://github.com/user-attachments/assets/dd6b7d0a-ac66-43bb-a6b6-65325315d4dc)
